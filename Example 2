@@ -1,0 +1,11 @@
+class Sample:
+def addtion(self,a,b):
+print(a+b)
+def subtraction(self,a,b):
+print(a-b)
+def multiplication(self,a,b):
+print(a*b)
+s1=Sample()
+s1.addition(10,30)
+s1.subtraction(10,50)
+s1.multiplication(2*20)
